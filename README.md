@@ -43,8 +43,8 @@ Siga os passos abaixo para rodar o projeto localmente.
 ### 1. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/NathanMarques2001/seu-projeto-placas.git](https://github.com/seu-usuario/seu-projeto-placas.git)
-cd seu-projeto-placas
+git clone [https://github.com/NathanMarques2001/plate-detection.git](https://github.com/NathanMarques2001/plate-detection.git)
+cd plate-detection
 ```
 
 ## 2. Criar um Ambiente Virtual (Recomendado)
