@@ -4,7 +4,7 @@
 > 
 > **Professor:** Fischer Stephan Meira
 >
-> **Instituição:** Centro Universitário Dom Helder
+> **Instituição:** Centro Universitário Dom Heldereee
 
 Este projeto implementa um pipeline completo de detecção, rastreamento e reconhecimento de placas de veículos em vídeos. O sistema utiliza **YOLOv11** para detecção de objetos, o algoritmo **SORT** para rastreamento (tracking), **EasyOCR** para leitura de caracteres e diversas técnicas de **Processamento Digital de Imagens** para pré-processamento.
 
